@@ -13,6 +13,22 @@
  - EFSET English Certificate 79/100 (C2 Proficient) - EF Standard English Test (EF SET) ✔️
  - Python For Everyone - Charles Severance
 
+### 🤖 Linguagens e ferramentas:
+<p align="center">
+	<img src="https://www.beabadohtml.com.br/midias/imagens/html5.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.pinimg.com/736x/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://seeklogo.com/images/T/terminal-logo-D3918B1E3A-seeklogo.com.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logosmarcas.net/wp-content/uploads/2021/02/Windows-New-Logo.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+
+</p>
+
 ### 🌱 Estou estudando no momento:
   - Bootcamp Back-end Python e Django - WomakersCode em parceria com a Microsoft, iFood e Potência Tech
   - Full Stack Ruby on Rails - [The Odin Project](https://www.theodinproject.com/)
