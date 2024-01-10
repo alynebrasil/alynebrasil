@@ -6,7 +6,7 @@
 ### ✨ Sobre mim:
  - 24 anos
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
- - Torcedora fanática do Fortaleza 🦁
+ - Torcedora do Fortaleza e fã de esportes 🦁
  - Sagitariana e INFP
 
 ### 🏆 Certificações:
