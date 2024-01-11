@@ -11,7 +11,8 @@
 
 ### 🏆 Certificações:
  - EFSET English Certificate 79/100 (C2 Proficient) - EF Standard English Test (EF SET) ✔️
- - Python For Everyone - Charles Severance
+ - Desvendando o Github - WoMakersCode ✔️
+ - Python For Everyone - Charles Severance ✔️
 
 ### 🤖 Linguagens e ferramentas:
 <p align="center">
