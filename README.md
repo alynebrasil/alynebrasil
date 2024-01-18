@@ -2,7 +2,7 @@
 
 <img align="right" width="200" height="150" src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif">
 
-🪴 *Pronomes: ela/dela - she-her*
+🪴 *Pronomes: ela/dela - she/her*
 ### ✨ Sobre mim:
  - 24 anos
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
