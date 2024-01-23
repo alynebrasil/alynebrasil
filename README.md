@@ -3,6 +3,10 @@
 <img align="right" width="200" height="150" src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif">
 
 🪴 *Pronomes: ela/dela - she/her*
+
+[![Lyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=alynebrasil)](https://github.com/alynebrasil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynebrasil&layout=donut)](https://github.com/alynebrasil/github-readme-stats)
+
 ### ✨ Sobre mim:
  - 24 anos
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
