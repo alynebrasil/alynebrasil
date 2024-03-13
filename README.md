@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynebrasil&layout=donut)](https://github.com/alynebrasil/github-readme-stats)
 
 ### ✨ Sobre mim:
+ - Estagiária em Desenvolvimento Fullstack com PHP|Laravel Nova|MySQL|Vue.js na WebQuarto!
  - 24 anos
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
  - Torcedora do Fortaleza e fã de esportes 🦁
