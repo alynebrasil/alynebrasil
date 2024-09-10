@@ -17,6 +17,7 @@
 ### 🏆 Certificações:
  - EFSET English Certificate 79/100 (C2 Proficient) - EF Standard English Test (EF SET) ✔️
  - Python For Everyone - Charles Severance ✔️
+ - Bootcamp Back-end Python e Django - WomakersCode em parceria com a Microsoft, iFood e Potência Tech ✔️
 
 ### 🤖 Linguagens e ferramentas:
 <p align="center">
@@ -38,7 +39,6 @@
 
 ### 🌱 Estou estudando no momento:
   - PHP e Laravel Nova
-  - Bootcamp Back-end Python e Django - WomakersCode em parceria com a Microsoft, iFood e Potência Tech
   - Full Stack Ruby on Rails - [The Odin Project](https://www.theodinproject.com/)
   - Introduction to CyberSecurity - [CS50 - Harvard](https://cs50.harvard.edu/cybersecurity/2023/)
 	 
