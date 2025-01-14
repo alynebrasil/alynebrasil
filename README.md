@@ -6,11 +6,9 @@
 
 <a href="https://www.linkedin.com/in/alynbrasil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynebrasil&layout=donut)](https://github.com/alynebrasil/github-readme-stats)
-
 ### ✨ Sobre mim:
- - Estagiária em Desenvolvimento Fullstack com PHP|Laravel Nova|MySQL|Vue.js na WebQuarto!
- - 24 anos
+ - Estagiária de Tecnologia na Jota!
+ - 25 anos
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
  - Torcedora do Fortaleza e fã de esportes 🦁
 
@@ -21,7 +19,6 @@
 
 ### 🤖 Linguagens e ferramentas:
 <p align="center">
-	<img src="https://www.beabadohtml.com.br/midias/imagens/html5.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -37,11 +34,6 @@
 
 </p>
 
-### 🌱 Estou estudando no momento:
-  - PHP e Laravel Nova
-  - Full Stack Ruby on Rails - [The Odin Project](https://www.theodinproject.com/)
-  - Introduction to CyberSecurity - [CS50 - Harvard](https://cs50.harvard.edu/cybersecurity/2023/)
-	 
 <p align="center">
 <img width="200px" src="https://i.pinimg.com/originals/26/31/00/263100384ace20ea05815d5756fab23d.gif">
 </p>
