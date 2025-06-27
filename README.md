@@ -7,14 +7,12 @@
 <a href="https://www.linkedin.com/in/alynbrasil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### ✨ Sobre mim:
- - Estagiária de Tecnologia na Jota!
- - 25 anos
+ - Estagiária de Tecnologia no JOTA!
  - Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=40px>
  - Torcedora do Fortaleza e fã de esportes 🦁
 
 ### 🏆 Certificações:
  - EFSET English Certificate 79/100 (C2 Proficient) - EF Standard English Test (EF SET) ✔️
- - Python For Everyone - Charles Severance ✔️
  - Bootcamp Back-end Python e Django - WomakersCode em parceria com a Microsoft, iFood e Potência Tech ✔️
 
 ### 🤖 Linguagens e ferramentas:
