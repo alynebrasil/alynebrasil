@@ -25,7 +25,6 @@
 	<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i.pinimg.com/736x/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/T/terminal-logo-D3918B1E3A-seeklogo.com.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Windows-New-Logo.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
