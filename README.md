@@ -16,8 +16,8 @@
 
 ### ✨ Sobre mim:
 ```
-Muito prazer! Sou a Alyne, estagiária de tecnologia no JOTA atuando como desenvolvedora fullstack!
-- Tenho trabalhado com Python, Django, estudado sobre WordPress, SEO, AWS e integrações API,
+Muito prazer! Sou a Alyne, trainee no JOTA atuando como desenvolvedora fullstack!
+- Tenho trabalhado com Python, Django, AWS, integrações API estudado sobre WordPress, SEO,
 além de escrever documentações técnicas para dividir o conhecimento entre o time.
 - Antes disso já adquiri experiência com PHP, Laravel Nova e Vue.js.
 - Torcedora do Fortaleza, apaixonada por gatos, filmes, livros e jogos antigos!
