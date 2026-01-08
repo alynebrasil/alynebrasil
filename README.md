@@ -10,7 +10,7 @@
 
 <p align="center">
   🌱 Pronomes: ela/dela · she/her <br>
-  💼 Estagiária de tecnologia no <b>JOTA</b> <br>
+  💼 Desenvolvedora Fullstack Trainee no <b>JOTA</b> <br>
   📍 Cearense tomando chimarrão no Paraná <img src="https://media.tenor.com/PAUuuGXf1nAAAAAM/yerba-mate.gif" alt="emoji tomando mate" width=45px>
 
 
