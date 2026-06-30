@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md">🇧🇷 Português</a> ·
+  <a href="README.en.md">🇺🇸 English</a>
+</p>
+
 <h1 align="center">Seja bem-vindo(a), eu sou a Alyne! 👩‍💻</h1>
 
 <p align="center">
