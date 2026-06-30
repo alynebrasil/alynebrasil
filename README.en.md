@@ -19,11 +19,15 @@
 ### ✨ About me:
 
 ```
-Nice to meet you! I'm Alyne, a trainee at JOTA working as a fullstack developer!
-- I've been working with Python, Django, AWS, and API integrations, while studying
-WordPress and SEO, as well as writing technical documentation to share knowledge
-across the team.
-- Before that, I gained experience with PHP, Laravel Nova, and Vue.js.
+Nice to meet you! I'm Alyne, a Fullstack Developer at JOTA.
+- I build and maintain Django integrations and REST APIs, working with AWS
+(Lambda, SQS, SNS) and BigQuery, always with a focus on automated testing and
+solid engineering practices.
+- I also work on AI-driven efficiency projects, using agents and tools like
+GitHub Copilot, Claude, Gemini, and GPT, and I write technical documentation to
+share knowledge across the team (while studying WordPress and SEO along the way).
+- Before JOTA, I gained fullstack experience with PHP (Laravel Nova) and Vue.js,
+adding up to more than two years in the field.
 - Fortaleza supporter, passionate about cats, movies, books, and retro games!
 ```
 
